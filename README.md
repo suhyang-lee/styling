@@ -6,5 +6,5 @@
 
 <details>
     <summary>슬라이더 리스트</summary>
-    - PURE CSS SLIDER : 
+    - PURE CSS SLIDER : https://github.com/suhyang-lee/styling/tree/main/Slider
 </details>
